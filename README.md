@@ -7,7 +7,7 @@
 
 
 ## 📜 Tutorial:
-- Upload to Play Store
+- [Publish Flutter App on Play Store](https://dhruvnakum.hashnode.dev/how-to-publish-flutter-app-on-play-store)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ridteam168&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
