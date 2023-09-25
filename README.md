@@ -10,6 +10,7 @@
 ## 📹 Colposcopy Camera
 - [Colposcopy Camera Codebase](https://github.com/ridteam168/colposcopy_camera)
 - [Auto Marking](https://github.com/ridteam168/auto_mark_colposcopy)
+- [Cervix Cancer Classification](https://github.com/ridteam168/cervix_cancer_classification_CNN)
 
 ## 🤳 Handheld Colposcopy Camera
 - [Handheld Colposcope Mobile App](https://github.com/ridteam168/mobile_colposcope_flutterapp)
@@ -18,6 +19,9 @@
 - [CPR Simulator Mobile App](https://github.com/ridteam168/cpr_sim_flutterapp)
 - [CPR QC App](https://github.com/ridteam168/cpr_qc)
 - [CPR Viewer Desktop](https://github.com/ridteam168/cpr_viewer_desktop)
+
+## 💢🔍 Vein Finder
+- [Vein Finder Image Processing](https://github.com/ridteam168/vein_finder_image_processing)
 
 <br>
 
