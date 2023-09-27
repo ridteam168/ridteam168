@@ -39,7 +39,8 @@
 1. Make a new repository for the project. Repository naming rules:
     - use underscore as spacing
     - use lowercase
-    - 
+    - use concise words
+    - not more than 50 characters
 2. Set repository as private if it declared not open for public
 3. Add peoples who will be working on the project as collaborators
 4. Add repository name and link to [profile page README.md](https://github.com/ridteam168/ridteam168/blob/main/README.md) (necessary to improve project maintainability)
