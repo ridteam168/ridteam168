@@ -3,11 +3,6 @@
 
 <br>
 
-# 📢 Public Releases
-- CPR QC App (on development)
-
-<br>
-
 # 🛠️ Projects
 > Projects are in private repository, if you are delegated to develop these projects please ask for granted to the repository administrator.
 
