@@ -16,8 +16,10 @@
 
 ## 🫀 CPR Simulator
 - [CPR Simulator Mobile App](https://github.com/ridteam168/cpr_sim_flutterapp)
-- [CPR QC App](https://github.com/ridteam168/cpr_qc)
 - [CPR Viewer Desktop](https://github.com/ridteam168/cpr_viewer_desktop)
+- [CPR QC App](https://github.com/ridteam168/cpr_qc)
+<br>
+⬇️ [Download CPR QC Latest Release (APK)](https://github.com/ridteam168/cpr_qc/releases/latest)
 
 ## 💢🔍 Vein Finder
 - [Vein Finder Image Processing](https://github.com/ridteam168/vein_finder_image_processing)
