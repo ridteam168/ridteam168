@@ -25,6 +25,12 @@
 
 <br>
 
+## 🧰 Miscellaneous
+### Python
+- [Python VideoCapture Handler](https://github.com/ridteam168/videocapture_handler_python)
+
+<br>
+
 # 📜 Tutorial:
 ## 📱 Mobile App Development
 - [Publish Flutter App on Play Store](https://dhruvnakum.hashnode.dev/how-to-publish-flutter-app-on-play-store)
