@@ -34,6 +34,7 @@
 # 📜 Tutorial:
 ## 📱 Mobile App Development
 - [Publish Flutter App on Play Store](https://dhruvnakum.hashnode.dev/how-to-publish-flutter-app-on-play-store)
+- [Privacy Policy Generator for Publishing App](https://app-privacy-policy-generator.firebaseapp.com/)
 
 <br>
 
