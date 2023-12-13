@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Keep code clean and documented" style="width:100%;">
+<img src="banner.png" alt="Keep code clean and documented" style="width:100%;">
 
 <br>
 
