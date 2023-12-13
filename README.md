@@ -1,7 +1,5 @@
 <img src="banner.png" alt="Keep code clean and documented" style="width:100%;">
 
-<br>
-
 # 🧑‍💻 Working Instruction
 - ### [Programming Working Instruction](/programming_working_instruction.md)
 
@@ -19,6 +17,8 @@
 
 ## 🤳 Handheld Colposcopy Camera
 - [Handheld Colposcope Mobile App](https://github.com/ridteam168/mobile_colposcope_flutterapp)
+
+<br>
 
 ## 🫀 CPR Simulator
 ### Embedded Softwares
