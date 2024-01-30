@@ -8,10 +8,17 @@
 # 🛠️ Projects
 > Projects are in private repository, if you are delegated to develop these projects please ask for granted to the repository administrator.
 
+## ☁️ ZENMED Software
+> Currently for software release and update
+- [ZENMED Software - Django (server side)](https://github.com/ridteam168/zenmedsoftware_django)
+- [Colposcope G1 Updater](https://github.com/ridteam168/colposcope_g1_updater)
+
+<br>
+
 ## 📹 Colposcopy Camera
 - [Colposcopy Camera Codebase](https://github.com/ridteam168/colposcopy_camera)
-- [Auto Marking](https://github.com/ridteam168/auto_mark_colposcopy)
-- [Cervix Cancer Classification](https://github.com/ridteam168/cervix_cancer_classification_CNN)
+- [Auto Marking Package](https://github.com/ridteam168/auto_mark_colposcopy)
+- [Cervix Cancer Machine Learning Development](https://github.com/ridteam168/cervix_cancer_classification_CNN)
 
 <br>
 
@@ -21,6 +28,9 @@
 <br>
 
 ## 🫀 CPR Simulator
+### Electronics
+- [CPR Simulator PCBs](https://github.com/ridteam168/cpr_simulator_PCB)
+
 ### Embedded Softwares
 - [BLE CPR Adult Arduino](https://github.com/ridteam168/ble_cpr_adult_arduino)
 - [BLE CPR Pediatric Arduino](https://github.com/ridteam168/ble_cpr_pediatric_arduino)
