@@ -54,6 +54,11 @@
 
 <br>
 
+## Next Project
+- Efek Depth pada kamera
+
+<br>
+
 # 📜 Tutorial:
 ## 📱 Mobile App Development
 - [Publish Flutter App on Play Store](https://dhruvnakum.hashnode.dev/how-to-publish-flutter-app-on-play-store)
