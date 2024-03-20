@@ -12,6 +12,7 @@
 > Currently for software release and update
 - [ZENMED Software - Django (server side)](https://github.com/ridteam168/zenmedsoftware_django)
 - [Colposcope G1 Updater](https://github.com/ridteam168/colposcope_g1_updater)
+- [Inventory Management](https://github.com/ridteam168/inventory_management)
 
 <br>
 
