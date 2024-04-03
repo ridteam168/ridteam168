@@ -20,6 +20,7 @@
 - [Colposcopy Camera Codebase](https://github.com/ridteam168/colposcopy_camera)
 - [Auto Marking Package](https://github.com/ridteam168/auto_mark_colposcopy)
 - [Cervix Cancer Machine Learning Development](https://github.com/ridteam168/cervix_cancer_classification_CNN)
+- [Arduino Battery Indicator](https://github.com/ridteam168/arduino_battery)
 
 <br>
 
