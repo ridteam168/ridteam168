@@ -11,7 +11,6 @@
 ## ☁️ ZENMED Software
 > Currently for software release and update
 - [ZENMED Software - Firebase (server side)](https://github.com/ridteam168/zenmedsoftware_firebase)
-- [Colposcope G1 Updater](https://github.com/ridteam168/colposcope_g1_updater)
 - [Inventory Management](https://github.com/ridteam168/inventory_management)
 - [ZENMED Single App Device Manager](https://github.com/ridteam168/linuxapp_client_manager)
 
