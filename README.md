@@ -16,6 +16,9 @@
 
 <br>
 
+## 🖥️ Vital Sign Monitor
+- [Military VSM QT](https://github.com/ridteam168/military_vsm_qt)
+
 ## 📹 Colposcopy Camera
 - [Colposcopy Camera Codebase](https://github.com/ridteam168/colposcopy_camera)
 - [Auto Marking Package](https://github.com/ridteam168/auto_mark_colposcopy)
