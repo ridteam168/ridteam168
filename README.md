@@ -40,6 +40,7 @@
 ### Embedded Softwares
 - [BLE CPR Adult Arduino](https://github.com/ridteam168/ble_cpr_adult_arduino)
 - [BLE CPR Pediatric Arduino](https://github.com/ridteam168/ble_cpr_pediatric_arduino)
+- [BLE CPR Configuration](https://github.com/ridteam168/ble_cpr_configuration.git)
 
 ### Applications
 - [CPR Simulator Mobile App](https://github.com/ridteam168/cpr_sim_flutterapp)
