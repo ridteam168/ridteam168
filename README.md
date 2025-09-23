@@ -20,14 +20,17 @@
 - [Military VSM QT](https://github.com/ridteam168/military_vsm_qt)
 
 ## 📹 Colposcopy Camera
+### Applications
 - [Colposcopy Camera Codebase](https://github.com/ridteam168/colposcopy_camera)
 - [Auto Marking Package](https://github.com/ridteam168/auto_mark_colposcopy)
 - [Cervix Cancer Machine Learning Development](https://github.com/ridteam168/cervix_cancer_classification_CNN)
+### Embedded Softwares
 - [Arduino Battery Indicator](https://github.com/ridteam168/arduino_battery)
 - [Microcontroller Main](https://github.com/ridteam168/Colposcope_G1_Microcontroller_Main.git)
 - [Microcontroller Camera](https://github.com/ridteam168/Colposcope_G1_Microcontroller_Camera.git)
 - [Microcontroller Switch](https://github.com/ridteam168/Colposcope_G1_Microcontroller_Switch.git)
-
+### Electronics
+- [Advanced Colposcope Electronics](https://github.com/ridteam168/Advanced-Colposcope-PCBs.git)
 <br>
 
 ## 🤳 Handheld Colposcopy Camera
