@@ -24,7 +24,9 @@
 - [Auto Marking Package](https://github.com/ridteam168/auto_mark_colposcopy)
 - [Cervix Cancer Machine Learning Development](https://github.com/ridteam168/cervix_cancer_classification_CNN)
 - [Arduino Battery Indicator](https://github.com/ridteam168/arduino_battery)
-- [Arduino Battery Indicator platformio + add coloumb counting](https://github.com/ridteam168/Advanced_colposcope_arduino.git)
+- [Microcontroller Main](https://github.com/ridteam168/Colposcope_G1_Microcontroller_Main.git)
+- [Microcontroller Camera](https://github.com/ridteam168/Colposcope_G1_Microcontroller_Camera.git)
+- [Microcontroller Switch](https://github.com/ridteam168/Colposcope_G1_Microcontroller_Switch.git)
 
 <br>
 
