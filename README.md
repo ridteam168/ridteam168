@@ -11,8 +11,9 @@
 ## ☁️ ZENMED Software
 > Currently for software release and update
 - [ZENMED Software - Firebase (server side)](https://github.com/ridteam168/zenmedsoftware_firebase)
-- [Inventory Management](https://github.com/ridteam168/inventory_management)
 - [ZENMED Single App Device Manager](https://github.com/ridteam168/linuxapp_client_manager)
+- [ZENMED ERP](https://github.com/ridteam168/zenmed_erp)
+- [ZENMED Software Dashboard](https://github.com/ridteam168/zenmedsoftware)
 
 <br>
 
